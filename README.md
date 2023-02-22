@@ -8,8 +8,8 @@ Ideally, the only file to be edited within this theme is the theme.json file. Ev
 
 This theme requires at least the following:
 
--   [WordPress](https://wordpress.org/) 6.1.1
--   [PHP](https://php.net/) 8.1.0
+-   [WordPress](https://wordpress.org/) 6.1.0
+-   [PHP](https://php.net/) 8.0.0
 
 ## Notes
 
